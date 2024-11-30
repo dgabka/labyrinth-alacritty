@@ -6,7 +6,6 @@ Labyrinth provides four distinct variants with varying levels of contrast and co
 
  - **Gloom**: The most contrasty variant, perfect for those who prefer sharp distinctions and vibrant colors.
  - **Dusk**: A balanced variant, offering a comfortable middle ground with moderate contrast and vibrancy.
- - **Shade**: A softer variant with reduced contrast, ideal for a more subdued and relaxed visual experience.
  - **Mist**: The least contrasty variant, featuring the most gentle and subtle tones for a calm and unobtrusive interface.
 
 Whether you're coding, designing, or simply exploring new aesthetics, Labyrinth adapts to your needs with its harmonious palette.
@@ -65,10 +64,6 @@ Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfet
 **Labyrinth Dusk**
 
 ![Alacritty with Labyrinth Dusk](assets/dusk.png)
-
-**Labyrinth Shade**
-
-![Alacritty with Labyrinth Shade](assets/shade.png)
 
 **Labyrinth Mist**
 
