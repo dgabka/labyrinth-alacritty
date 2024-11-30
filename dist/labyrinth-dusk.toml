@@ -2,74 +2,74 @@
 # https://github.com/alacritty/alacritty/blob/master/extra/man/alacritty.5.scd#colors
 
 [colors.primary]
-foreground = "#dee1eb"
-background = "#181b24"
-dim_foreground = "#7a8194"
-bright_foreground = "#dee1eb"
+foreground = "#d3d8e2"
+background = "#0f1211"
+dim_foreground = "#5f6c58"
+bright_foreground = "#d3d8e2"
 
 [colors.cursor]
-text = "#dee1eb"
-cursor = "#596579"
+text = "#d3d8e2"
+cursor = "#292f24"
 
 [colors.vi_mode_cursor]
-text = "#dee1eb"
-cursor = "#596579"
+text = "#d3d8e2"
+cursor = "#292f24"
 
 [colors.search.matches]
-foreground = "#7a8194"
-background = "#242834"
+foreground = "#5f6c58"
+background = "#171b19"
 
 [colors.search.focused_match]
-foreground = "#181b24"
-background = "#e2968b"
+foreground = "#0f1211"
+background = "#da9187"
 
 [colors.hints.start]
-foreground = "#7a8194"
-background = "#1e222d"
+foreground = "#5f6c58"
+background = "#131615"
 
 [colors.hints.end]
-foreground = "#575e72"
-background = "#1e222d"
+foreground = "#4c5759"
+background = "#131615"
 
 [colors.line_indicator]
 foreground = "None"
 background = "None"
 
 [colors.footer_bar]
-foreground = "#dee1eb"
-background = "#1e222d"
+foreground = "#d3d8e2"
+background = "#131615"
 
 [colors.selection]
-text = "#dee1eb"
-background = "#434a62"
+text = "#d3d8e2"
+background = "#242b20"
 
 [colors.normal]
-black = "#242834"
-red = "#d7617b"
-green = "#458976"
-yellow = "#e0a469"
-blue = "#99b2a8"
-magenta = "#9884b2"
-cyan = "#e2968b"
-white = "#dee1eb"
+black = "#171b19"
+red = "#c95a78"
+green = "#415f43"
+yellow = "#d29558"
+blue = "#768c76"
+magenta = "#8c7aa0"
+cyan = "#da9187"
+white = "#d3d8e2"
 
 [colors.bright]
-black = "#575e72"
-red = "#d7617b"
-green = "#458976"
-yellow = "#e0a469"
-blue = "#99b2a8"
-magenta = "#9884b2"
-cyan = "#e2968b"
-white = "#dee1eb"
+black = "#4c5759"
+red = "#c95a78"
+green = "#415f43"
+yellow = "#d29558"
+blue = "#768c76"
+magenta = "#8c7aa0"
+cyan = "#da9187"
+white = "#d3d8e2"
 
 [colors.dim]
-black = "#575e72"
-red = "#d7617b"
-green = "#458976"
-yellow = "#e0a469"
-blue = "#99b2a8"
-magenta = "#9884b2"
-cyan = "#e2968b"
-white = "#dee1eb"
+black = "#4c5759"
+red = "#c95a78"
+green = "#415f43"
+yellow = "#d29558"
+blue = "#768c76"
+magenta = "#8c7aa0"
+cyan = "#da9187"
+white = "#d3d8e2"
 
