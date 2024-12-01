@@ -9,11 +9,11 @@ bright_foreground = "#bec3c1"
 
 [colors.cursor]
 text = "#bec3c1"
-cursor = "#717a8f"
+cursor = "#292f24"
 
 [colors.vi_mode_cursor]
 text = "#bec3c1"
-cursor = "#717a8f"
+cursor = "#292f24"
 
 [colors.search.matches]
 foreground = "#5f6c58"
@@ -41,7 +41,7 @@ background = "#1b1d1c"
 
 [colors.selection]
 text = "#bec3c1"
-background = "#565d75"
+background = "#242b20"
 
 [colors.normal]
 black = "#1f2120"
